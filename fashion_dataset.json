@@ -1,0 +1,2504 @@
+{
+  "items": [
+    {
+      "item_id": 1,
+      "category": "dress",
+      "color": "mint green",
+      "style": "color-blocking",
+      "season": "fall",
+      "formality": "semi-formal",
+      "attributes": {
+        "pattern": "plaid",
+        "material": "silk",
+        "sleeve_length": "short",
+        "neckline": "square",
+        "fit": "slim",
+        "length": "short",
+        "popularity": "trending",
+        "price_range": "budget"
+      },
+      "sales_data": {
+        "views": 563,
+        "likes": 1270,
+        "purchases": 338,
+        "rating": 3.9,
+        "reviews": 250
+      }
+    },
+    {
+      "item_id": 2,
+      "category": "shorts",
+      "color": "dusty rose",
+      "style": "vintage-inspired",
+      "season": "spring",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "animal print",
+        "material": "polyester",
+        "sleeve_length": "medium",
+        "neckline": "off-shoulder",
+        "fit": "oversized",
+        "length": "short",
+        "popularity": "trending",
+        "price_range": "luxury"
+      },
+      "sales_data": {
+        "views": 5579,
+        "likes": 2088,
+        "purchases": 744,
+        "rating": 3.6,
+        "reviews": 419
+      }
+    },
+    {
+      "item_id": 3,
+      "category": "shirt",
+      "color": "sage green",
+      "style": "geometric patterns",
+      "season": "spring",
+      "formality": "semi-formal",
+      "attributes": {
+        "pattern": "striped",
+        "material": "polyester",
+        "sleeve_length": "long",
+        "neckline": "v-neck",
+        "fit": "loose",
+        "length": "knee-length",
+        "popularity": "trending",
+        "price_range": "mid-range"
+      },
+      "sales_data": {
+        "views": 2678,
+        "likes": 2890,
+        "purchases": 1,
+        "rating": 4.3,
+        "reviews": 181
+      }
+    },
+    {
+      "item_id": 4,
+      "category": "t-shirt",
+      "color": "sage green",
+      "style": "minimalist",
+      "season": "fall",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "floral",
+        "material": "leather",
+        "sleeve_length": "three-quarter",
+        "neckline": "halter",
+        "fit": "oversized",
+        "length": "maxi",
+        "popularity": "high",
+        "price_range": "premium"
+      },
+      "sales_data": {
+        "views": 3614,
+        "likes": 3002,
+        "purchases": 28,
+        "rating": 2.6,
+        "reviews": 73
+      }
+    },
+    {
+      "item_id": 5,
+      "category": "t-shirt",
+      "color": "olive green",
+      "style": "athleisure",
+      "season": "spring",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "solid",
+        "material": "wool",
+        "sleeve_length": "three-quarter",
+        "neckline": "turtleneck",
+        "fit": "slim",
+        "length": "short",
+        "popularity": "trending",
+        "price_range": "mid-range"
+      },
+      "sales_data": {
+        "views": 842,
+        "likes": 530,
+        "purchases": 607,
+        "rating": 4.3,
+        "reviews": 453
+      }
+    },
+    {
+      "item_id": 6,
+      "category": "jeans",
+      "color": "blue",
+      "style": "casual",
+      "season": "winter",
+      "formality": "semi-formal",
+      "attributes": {
+        "pattern": "geometric",
+        "material": "wool",
+        "sleeve_length": "long",
+        "neckline": "halter",
+        "fit": "tailored",
+        "length": "midi",
+        "popularity": "medium",
+        "price_range": "premium"
+      },
+      "sales_data": {
+        "views": 8445,
+        "likes": 4998,
+        "purchases": 420,
+        "rating": 3.0,
+        "reviews": 309
+      }
+    },
+    {
+      "item_id": 7,
+      "category": "jeans",
+      "color": "burnt orange",
+      "style": "formal",
+      "season": "summer",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "animal print",
+        "material": "cotton",
+        "sleeve_length": "three-quarter",
+        "neckline": "square",
+        "fit": "slim",
+        "length": "short",
+        "popularity": "high",
+        "price_range": "mid-range"
+      },
+      "sales_data": {
+        "views": 2352,
+        "likes": 2407,
+        "purchases": 399,
+        "rating": 3.7,
+        "reviews": 189
+      }
+    },
+    {
+      "item_id": 8,
+      "category": "shorts",
+      "color": "powder blue",
+      "style": "monochromatic",
+      "season": "spring",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "striped",
+        "material": "velvet",
+        "sleeve_length": "medium",
+        "neckline": "off-shoulder",
+        "fit": "loose",
+        "length": "short",
+        "popularity": "medium",
+        "price_range": "premium"
+      },
+      "sales_data": {
+        "views": 1733,
+        "likes": 1610,
+        "purchases": 407,
+        "rating": 2.4,
+        "reviews": 318
+      }
+    },
+    {
+      "item_id": 9,
+      "category": "t-shirt",
+      "color": "brown",
+      "style": "vintage-inspired",
+      "season": "spring",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "plaid",
+        "material": "leather",
+        "sleeve_length": "three-quarter",
+        "neckline": "off-shoulder",
+        "fit": "loose",
+        "length": "short",
+        "popularity": "medium",
+        "price_range": "premium"
+      },
+      "sales_data": {
+        "views": 5675,
+        "likes": 2128,
+        "purchases": 73,
+        "rating": 2.6,
+        "reviews": 111
+      }
+    },
+    {
+      "item_id": 10,
+      "category": "jacket",
+      "color": "terracotta",
+      "style": "layered",
+      "season": "all-season",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "plaid",
+        "material": "linen",
+        "sleeve_length": "short",
+        "neckline": "v-neck",
+        "fit": "slim",
+        "length": "knee-length",
+        "popularity": "low",
+        "price_range": "budget"
+      },
+      "sales_data": {
+        "views": 6398,
+        "likes": 1578,
+        "purchases": 985,
+        "rating": 3.1,
+        "reviews": 63
+      }
+    },
+    {
+      "item_id": 11,
+      "category": "jeans",
+      "color": "blush pink",
+      "style": "sustainable",
+      "season": "fall",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "plaid",
+        "material": "velvet",
+        "sleeve_length": "three-quarter",
+        "neckline": "round",
+        "fit": "oversized",
+        "length": "knee-length",
+        "popularity": "high",
+        "price_range": "premium"
+      },
+      "sales_data": {
+        "views": 1198,
+        "likes": 2642,
+        "purchases": 925,
+        "rating": 3.9,
+        "reviews": 349
+      }
+    },
+    {
+      "item_id": 12,
+      "category": "shorts",
+      "color": "terracotta",
+      "style": "gender-neutral",
+      "season": "spring",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "animal print",
+        "material": "leather",
+        "sleeve_length": "long",
+        "neckline": "round",
+        "fit": "slim",
+        "length": "knee-length",
+        "popularity": "high",
+        "price_range": "premium"
+      },
+      "sales_data": {
+        "views": 506,
+        "likes": 2435,
+        "purchases": 452,
+        "rating": 4.7,
+        "reviews": 227
+      }
+    },
+    {
+      "item_id": 13,
+      "category": "jacket",
+      "color": "brown",
+      "style": "vintage",
+      "season": "fall",
+      "formality": "semi-formal",
+      "attributes": {
+        "pattern": "solid",
+        "material": "polyester",
+        "sleeve_length": "medium",
+        "neckline": "v-neck",
+        "fit": "loose",
+        "length": "short",
+        "popularity": "trending",
+        "price_range": "premium"
+      },
+      "sales_data": {
+        "views": 2463,
+        "likes": 4082,
+        "purchases": 432,
+        "rating": 1.1,
+        "reviews": 272
+      }
+    },
+    {
+      "item_id": 14,
+      "category": "t-shirt",
+      "color": "dusty rose",
+      "style": "business",
+      "season": "summer",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "striped",
+        "material": "denim",
+        "sleeve_length": "short",
+        "neckline": "square",
+        "fit": "tailored",
+        "length": "short",
+        "popularity": "low",
+        "price_range": "premium"
+      },
+      "sales_data": {
+        "views": 6490,
+        "likes": 1519,
+        "purchases": 982,
+        "rating": 2.3,
+        "reviews": 141
+      }
+    },
+    {
+      "item_id": 15,
+      "category": "shirt",
+      "color": "powder blue",
+      "style": "streetwear",
+      "season": "all-season",
+      "formality": "semi-formal",
+      "attributes": {
+        "pattern": "geometric",
+        "material": "denim",
+        "sleeve_length": "long",
+        "neckline": "halter",
+        "fit": "regular",
+        "length": "knee-length",
+        "popularity": "trending",
+        "price_range": "premium"
+      },
+      "sales_data": {
+        "views": 247,
+        "likes": 480,
+        "purchases": 274,
+        "rating": 2.3,
+        "reviews": 378
+      }
+    },
+    {
+      "item_id": 16,
+      "category": "skirt",
+      "color": "coral",
+      "style": "vintage-inspired",
+      "season": "winter",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "plaid",
+        "material": "polyester",
+        "sleeve_length": "long",
+        "neckline": "v-neck",
+        "fit": "loose",
+        "length": "ankle-length",
+        "popularity": "medium",
+        "price_range": "mid-range"
+      },
+      "sales_data": {
+        "views": 8313,
+        "likes": 419,
+        "purchases": 931,
+        "rating": 4.8,
+        "reviews": 165
+      }
+    },
+    {
+      "item_id": 17,
+      "category": "shirt",
+      "color": "powder blue",
+      "style": "vintage",
+      "season": "winter",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "floral",
+        "material": "polyester",
+        "sleeve_length": "long",
+        "neckline": "turtleneck",
+        "fit": "tailored",
+        "length": "short",
+        "popularity": "low",
+        "price_range": "premium"
+      },
+      "sales_data": {
+        "views": 9422,
+        "likes": 4513,
+        "purchases": 435,
+        "rating": 2.3,
+        "reviews": 55
+      }
+    },
+    {
+      "item_id": 18,
+      "category": "coat",
+      "color": "blue",
+      "style": "vintage-inspired",
+      "season": "all-season",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "plaid",
+        "material": "denim",
+        "sleeve_length": "three-quarter",
+        "neckline": "off-shoulder",
+        "fit": "regular",
+        "length": "knee-length",
+        "popularity": "trending",
+        "price_range": "mid-range"
+      },
+      "sales_data": {
+        "views": 3735,
+        "likes": 743,
+        "purchases": 811,
+        "rating": 2.0,
+        "reviews": 284
+      }
+    },
+    {
+      "item_id": 19,
+      "category": "shoes",
+      "color": "dusty rose",
+      "style": "textured",
+      "season": "fall",
+      "formality": "semi-formal",
+      "attributes": {
+        "pattern": "plaid",
+        "material": "velvet",
+        "sleeve_length": "three-quarter",
+        "neckline": "square",
+        "fit": "slim",
+        "length": "knee-length",
+        "popularity": "low",
+        "price_range": "mid-range"
+      },
+      "sales_data": {
+        "views": 1515,
+        "likes": 781,
+        "purchases": 650,
+        "rating": 4.6,
+        "reviews": 473
+      }
+    },
+    {
+      "item_id": 20,
+      "category": "shoes",
+      "color": "powder blue",
+      "style": "sustainable",
+      "season": "fall",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "floral",
+        "material": "denim",
+        "sleeve_length": "medium",
+        "neckline": "turtleneck",
+        "fit": "loose",
+        "length": "ankle-length",
+        "popularity": "medium",
+        "price_range": "budget"
+      },
+      "sales_data": {
+        "views": 8600,
+        "likes": 3223,
+        "purchases": 754,
+        "rating": 4.8,
+        "reviews": 396
+      }
+    },
+    {
+      "item_id": 21,
+      "category": "skirt",
+      "color": "yellow",
+      "style": "streetwear",
+      "season": "spring",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "floral",
+        "material": "leather",
+        "sleeve_length": "sleeveless",
+        "neckline": "round",
+        "fit": "tailored",
+        "length": "short",
+        "popularity": "trending",
+        "price_range": "mid-range"
+      },
+      "sales_data": {
+        "views": 8723,
+        "likes": 3588,
+        "purchases": 561,
+        "rating": 2.5,
+        "reviews": 273
+      }
+    },
+    {
+      "item_id": 22,
+      "category": "t-shirt",
+      "color": "black",
+      "style": "monochromatic",
+      "season": "fall",
+      "formality": "semi-formal",
+      "attributes": {
+        "pattern": "striped",
+        "material": "denim",
+        "sleeve_length": "three-quarter",
+        "neckline": "v-neck",
+        "fit": "regular",
+        "length": "maxi",
+        "popularity": "low",
+        "price_range": "mid-range"
+      },
+      "sales_data": {
+        "views": 6526,
+        "likes": 1922,
+        "purchases": 141,
+        "rating": 2.1,
+        "reviews": 47
+      }
+    },
+    {
+      "item_id": 23,
+      "category": "jeans",
+      "color": "brown",
+      "style": "preppy",
+      "season": "all-season",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "polka dot",
+        "material": "cotton",
+        "sleeve_length": "long",
+        "neckline": "off-shoulder",
+        "fit": "slim",
+        "length": "knee-length",
+        "popularity": "medium",
+        "price_range": "budget"
+      },
+      "sales_data": {
+        "views": 5946,
+        "likes": 962,
+        "purchases": 330,
+        "rating": 4.3,
+        "reviews": 103
+      }
+    },
+    {
+      "item_id": 24,
+      "category": "shoes",
+      "color": "white",
+      "style": "preppy",
+      "season": "summer",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "striped",
+        "material": "cotton",
+        "sleeve_length": "long",
+        "neckline": "off-shoulder",
+        "fit": "regular",
+        "length": "maxi",
+        "popularity": "high",
+        "price_range": "luxury"
+      },
+      "sales_data": {
+        "views": 2243,
+        "likes": 3773,
+        "purchases": 503,
+        "rating": 3.3,
+        "reviews": 199
+      }
+    },
+    {
+      "item_id": 25,
+      "category": "blouse",
+      "color": "coral",
+      "style": "casual",
+      "season": "all-season",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "polka dot",
+        "material": "silk",
+        "sleeve_length": "short",
+        "neckline": "round",
+        "fit": "tailored",
+        "length": "knee-length",
+        "popularity": "medium",
+        "price_range": "luxury"
+      },
+      "sales_data": {
+        "views": 1069,
+        "likes": 3040,
+        "purchases": 11,
+        "rating": 3.3,
+        "reviews": 205
+      }
+    },
+    {
+      "item_id": 26,
+      "category": "blouse",
+      "color": "red",
+      "style": "streetwear",
+      "season": "spring",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "floral",
+        "material": "silk",
+        "sleeve_length": "short",
+        "neckline": "round",
+        "fit": "tailored",
+        "length": "ankle-length",
+        "popularity": "high",
+        "price_range": "mid-range"
+      },
+      "sales_data": {
+        "views": 8582,
+        "likes": 427,
+        "purchases": 972,
+        "rating": 1.2,
+        "reviews": 287
+      }
+    },
+    {
+      "item_id": 27,
+      "category": "shirt",
+      "color": "pink",
+      "style": "asymmetrical",
+      "season": "summer",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "plaid",
+        "material": "cotton",
+        "sleeve_length": "three-quarter",
+        "neckline": "turtleneck",
+        "fit": "tailored",
+        "length": "maxi",
+        "popularity": "medium",
+        "price_range": "luxury"
+      },
+      "sales_data": {
+        "views": 2548,
+        "likes": 2043,
+        "purchases": 894,
+        "rating": 3.6,
+        "reviews": 198
+      }
+    },
+    {
+      "item_id": 28,
+      "category": "dress",
+      "color": "pink",
+      "style": "casual",
+      "season": "fall",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "animal print",
+        "material": "linen",
+        "sleeve_length": "sleeveless",
+        "neckline": "round",
+        "fit": "oversized",
+        "length": "maxi",
+        "popularity": "low",
+        "price_range": "budget"
+      },
+      "sales_data": {
+        "views": 5804,
+        "likes": 982,
+        "purchases": 881,
+        "rating": 3.2,
+        "reviews": 236
+      }
+    },
+    {
+      "item_id": 29,
+      "category": "pants",
+      "color": "teal",
+      "style": "vintage",
+      "season": "fall",
+      "formality": "semi-formal",
+      "attributes": {
+        "pattern": "striped",
+        "material": "wool",
+        "sleeve_length": "medium",
+        "neckline": "turtleneck",
+        "fit": "slim",
+        "length": "midi",
+        "popularity": "high",
+        "price_range": "budget"
+      },
+      "sales_data": {
+        "views": 774,
+        "likes": 1316,
+        "purchases": 111,
+        "rating": 3.5,
+        "reviews": 89
+      }
+    },
+    {
+      "item_id": 30,
+      "category": "pants",
+      "color": "blush pink",
+      "style": "semi-formal",
+      "season": "summer",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "geometric",
+        "material": "velvet",
+        "sleeve_length": "long",
+        "neckline": "v-neck",
+        "fit": "slim",
+        "length": "knee-length",
+        "popularity": "medium",
+        "price_range": "budget"
+      },
+      "sales_data": {
+        "views": 318,
+        "likes": 538,
+        "purchases": 815,
+        "rating": 4.9,
+        "reviews": 41
+      }
+    },
+    {
+      "item_id": 31,
+      "category": "shorts",
+      "color": "navy",
+      "style": "textured",
+      "season": "spring",
+      "formality": "semi-formal",
+      "attributes": {
+        "pattern": "animal print",
+        "material": "polyester",
+        "sleeve_length": "medium",
+        "neckline": "halter",
+        "fit": "regular",
+        "length": "short",
+        "popularity": "medium",
+        "price_range": "luxury"
+      },
+      "sales_data": {
+        "views": 1006,
+        "likes": 4308,
+        "purchases": 485,
+        "rating": 2.3,
+        "reviews": 170
+      }
+    },
+    {
+      "item_id": 32,
+      "category": "sweater",
+      "color": "navy",
+      "style": "business",
+      "season": "fall",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "striped",
+        "material": "leather",
+        "sleeve_length": "long",
+        "neckline": "round",
+        "fit": "tailored",
+        "length": "ankle-length",
+        "popularity": "trending",
+        "price_range": "budget"
+      },
+      "sales_data": {
+        "views": 9314,
+        "likes": 2210,
+        "purchases": 560,
+        "rating": 1.2,
+        "reviews": 320
+      }
+    },
+    {
+      "item_id": 33,
+      "category": "blouse",
+      "color": "powder blue",
+      "style": "geometric patterns",
+      "season": "all-season",
+      "formality": "semi-formal",
+      "attributes": {
+        "pattern": "floral",
+        "material": "silk",
+        "sleeve_length": "three-quarter",
+        "neckline": "square",
+        "fit": "tailored",
+        "length": "ankle-length",
+        "popularity": "high",
+        "price_range": "budget"
+      },
+      "sales_data": {
+        "views": 8178,
+        "likes": 2950,
+        "purchases": 893,
+        "rating": 4.2,
+        "reviews": 416
+      }
+    },
+    {
+      "item_id": 34,
+      "category": "dress",
+      "color": "terracotta",
+      "style": "layered",
+      "season": "winter",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "floral",
+        "material": "wool",
+        "sleeve_length": "short",
+        "neckline": "round",
+        "fit": "loose",
+        "length": "knee-length",
+        "popularity": "high",
+        "price_range": "luxury"
+      },
+      "sales_data": {
+        "views": 6535,
+        "likes": 4225,
+        "purchases": 937,
+        "rating": 3.9,
+        "reviews": 185
+      }
+    },
+    {
+      "item_id": 35,
+      "category": "shirt",
+      "color": "navy",
+      "style": "athleisure",
+      "season": "summer",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "floral",
+        "material": "silk",
+        "sleeve_length": "long",
+        "neckline": "square",
+        "fit": "tailored",
+        "length": "midi",
+        "popularity": "trending",
+        "price_range": "mid-range"
+      },
+      "sales_data": {
+        "views": 6566,
+        "likes": 3564,
+        "purchases": 211,
+        "rating": 2.8,
+        "reviews": 142
+      }
+    },
+    {
+      "item_id": 36,
+      "category": "pants",
+      "color": "purple",
+      "style": "color-blocking",
+      "season": "winter",
+      "formality": "semi-formal",
+      "attributes": {
+        "pattern": "floral",
+        "material": "wool",
+        "sleeve_length": "short",
+        "neckline": "round",
+        "fit": "tailored",
+        "length": "short",
+        "popularity": "low",
+        "price_range": "mid-range"
+      },
+      "sales_data": {
+        "views": 7495,
+        "likes": 4242,
+        "purchases": 985,
+        "rating": 2.1,
+        "reviews": 255
+      }
+    },
+    {
+      "item_id": 37,
+      "category": "dress",
+      "color": "mint green",
+      "style": "sporty",
+      "season": "summer",
+      "formality": "semi-formal",
+      "attributes": {
+        "pattern": "plaid",
+        "material": "linen",
+        "sleeve_length": "short",
+        "neckline": "round",
+        "fit": "regular",
+        "length": "midi",
+        "popularity": "low",
+        "price_range": "mid-range"
+      },
+      "sales_data": {
+        "views": 8289,
+        "likes": 957,
+        "purchases": 261,
+        "rating": 3.4,
+        "reviews": 71
+      }
+    },
+    {
+      "item_id": 38,
+      "category": "blouse",
+      "color": "black",
+      "style": "minimalist",
+      "season": "summer",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "polka dot",
+        "material": "leather",
+        "sleeve_length": "sleeveless",
+        "neckline": "turtleneck",
+        "fit": "oversized",
+        "length": "short",
+        "popularity": "low",
+        "price_range": "luxury"
+      },
+      "sales_data": {
+        "views": 4846,
+        "likes": 1719,
+        "purchases": 85,
+        "rating": 3.4,
+        "reviews": 416
+      }
+    },
+    {
+      "item_id": 39,
+      "category": "blouse",
+      "color": "burnt orange",
+      "style": "monochromatic",
+      "season": "fall",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "striped",
+        "material": "leather",
+        "sleeve_length": "long",
+        "neckline": "round",
+        "fit": "oversized",
+        "length": "midi",
+        "popularity": "high",
+        "price_range": "budget"
+      },
+      "sales_data": {
+        "views": 2347,
+        "likes": 1489,
+        "purchases": 472,
+        "rating": 1.2,
+        "reviews": 358
+      }
+    },
+    {
+      "item_id": 40,
+      "category": "skirt",
+      "color": "burnt orange",
+      "style": "formal",
+      "season": "all-season",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "floral",
+        "material": "cotton",
+        "sleeve_length": "long",
+        "neckline": "turtleneck",
+        "fit": "oversized",
+        "length": "ankle-length",
+        "popularity": "trending",
+        "price_range": "budget"
+      },
+      "sales_data": {
+        "views": 534,
+        "likes": 1183,
+        "purchases": 128,
+        "rating": 2.1,
+        "reviews": 245
+      }
+    },
+    {
+      "item_id": 41,
+      "category": "coat",
+      "color": "beige",
+      "style": "monochromatic",
+      "season": "summer",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "plaid",
+        "material": "velvet",
+        "sleeve_length": "medium",
+        "neckline": "off-shoulder",
+        "fit": "tailored",
+        "length": "maxi",
+        "popularity": "medium",
+        "price_range": "premium"
+      },
+      "sales_data": {
+        "views": 8142,
+        "likes": 1902,
+        "purchases": 370,
+        "rating": 4.9,
+        "reviews": 9
+      }
+    },
+    {
+      "item_id": 42,
+      "category": "skirt",
+      "color": "sage green",
+      "style": "layered",
+      "season": "winter",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "striped",
+        "material": "velvet",
+        "sleeve_length": "sleeveless",
+        "neckline": "round",
+        "fit": "oversized",
+        "length": "midi",
+        "popularity": "medium",
+        "price_range": "luxury"
+      },
+      "sales_data": {
+        "views": 5675,
+        "likes": 4828,
+        "purchases": 399,
+        "rating": 1.5,
+        "reviews": 318
+      }
+    },
+    {
+      "item_id": 43,
+      "category": "pants",
+      "color": "terracotta",
+      "style": "asymmetrical",
+      "season": "spring",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "solid",
+        "material": "velvet",
+        "sleeve_length": "medium",
+        "neckline": "square",
+        "fit": "oversized",
+        "length": "ankle-length",
+        "popularity": "medium",
+        "price_range": "luxury"
+      },
+      "sales_data": {
+        "views": 3383,
+        "likes": 1574,
+        "purchases": 602,
+        "rating": 2.0,
+        "reviews": 44
+      }
+    },
+    {
+      "item_id": 44,
+      "category": "dress",
+      "color": "sage green",
+      "style": "gender-neutral",
+      "season": "winter",
+      "formality": "semi-formal",
+      "attributes": {
+        "pattern": "plaid",
+        "material": "silk",
+        "sleeve_length": "medium",
+        "neckline": "turtleneck",
+        "fit": "tailored",
+        "length": "ankle-length",
+        "popularity": "high",
+        "price_range": "mid-range"
+      },
+      "sales_data": {
+        "views": 2357,
+        "likes": 2642,
+        "purchases": 99,
+        "rating": 3.2,
+        "reviews": 30
+      }
+    },
+    {
+      "item_id": 45,
+      "category": "shorts",
+      "color": "teal",
+      "style": "minimalist",
+      "season": "winter",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "animal print",
+        "material": "cotton",
+        "sleeve_length": "short",
+        "neckline": "halter",
+        "fit": "tailored",
+        "length": "knee-length",
+        "popularity": "trending",
+        "price_range": "luxury"
+      },
+      "sales_data": {
+        "views": 9982,
+        "likes": 1371,
+        "purchases": 736,
+        "rating": 3.1,
+        "reviews": 448
+      }
+    },
+    {
+      "item_id": 46,
+      "category": "skirt",
+      "color": "purple",
+      "style": "formal",
+      "season": "spring",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "animal print",
+        "material": "wool",
+        "sleeve_length": "long",
+        "neckline": "halter",
+        "fit": "slim",
+        "length": "knee-length",
+        "popularity": "low",
+        "price_range": "budget"
+      },
+      "sales_data": {
+        "views": 637,
+        "likes": 4092,
+        "purchases": 489,
+        "rating": 1.1,
+        "reviews": 123
+      }
+    },
+    {
+      "item_id": 47,
+      "category": "skirt",
+      "color": "powder blue",
+      "style": "layered",
+      "season": "spring",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "polka dot",
+        "material": "polyester",
+        "sleeve_length": "medium",
+        "neckline": "off-shoulder",
+        "fit": "slim",
+        "length": "maxi",
+        "popularity": "high",
+        "price_range": "mid-range"
+      },
+      "sales_data": {
+        "views": 983,
+        "likes": 1635,
+        "purchases": 846,
+        "rating": 1.8,
+        "reviews": 181
+      }
+    },
+    {
+      "item_id": 48,
+      "category": "jeans",
+      "color": "orange",
+      "style": "monochromatic",
+      "season": "winter",
+      "formality": "semi-formal",
+      "attributes": {
+        "pattern": "geometric",
+        "material": "linen",
+        "sleeve_length": "three-quarter",
+        "neckline": "halter",
+        "fit": "oversized",
+        "length": "midi",
+        "popularity": "low",
+        "price_range": "mid-range"
+      },
+      "sales_data": {
+        "views": 8336,
+        "likes": 2572,
+        "purchases": 294,
+        "rating": 1.5,
+        "reviews": 107
+      }
+    },
+    {
+      "item_id": 49,
+      "category": "coat",
+      "color": "teal",
+      "style": "semi-formal",
+      "season": "summer",
+      "formality": "semi-formal",
+      "attributes": {
+        "pattern": "plaid",
+        "material": "denim",
+        "sleeve_length": "long",
+        "neckline": "halter",
+        "fit": "tailored",
+        "length": "maxi",
+        "popularity": "high",
+        "price_range": "budget"
+      },
+      "sales_data": {
+        "views": 9855,
+        "likes": 3472,
+        "purchases": 941,
+        "rating": 4.6,
+        "reviews": 93
+      }
+    },
+    {
+      "item_id": 50,
+      "category": "shorts",
+      "color": "powder blue",
+      "style": "monochromatic",
+      "season": "all-season",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "floral",
+        "material": "denim",
+        "sleeve_length": "three-quarter",
+        "neckline": "round",
+        "fit": "regular",
+        "length": "knee-length",
+        "popularity": "medium",
+        "price_range": "luxury"
+      },
+      "sales_data": {
+        "views": 8119,
+        "likes": 857,
+        "purchases": 936,
+        "rating": 2.8,
+        "reviews": 312
+      }
+    },
+    {
+      "item_id": 51,
+      "category": "shirt",
+      "color": "olive green",
+      "style": "gender-neutral",
+      "season": "spring",
+      "formality": "semi-formal",
+      "attributes": {
+        "pattern": "plaid",
+        "material": "silk",
+        "sleeve_length": "three-quarter",
+        "neckline": "round",
+        "fit": "tailored",
+        "length": "ankle-length",
+        "popularity": "high",
+        "price_range": "luxury"
+      },
+      "sales_data": {
+        "views": 2872,
+        "likes": 926,
+        "purchases": 373,
+        "rating": 1.8,
+        "reviews": 472
+      }
+    },
+    {
+      "item_id": 52,
+      "category": "blouse",
+      "color": "olive green",
+      "style": "formal",
+      "season": "summer",
+      "formality": "semi-formal",
+      "attributes": {
+        "pattern": "polka dot",
+        "material": "polyester",
+        "sleeve_length": "sleeveless",
+        "neckline": "turtleneck",
+        "fit": "regular",
+        "length": "midi",
+        "popularity": "low",
+        "price_range": "premium"
+      },
+      "sales_data": {
+        "views": 9797,
+        "likes": 2206,
+        "purchases": 801,
+        "rating": 3.5,
+        "reviews": 308
+      }
+    },
+    {
+      "item_id": 53,
+      "category": "skirt",
+      "color": "lavender",
+      "style": "sustainable",
+      "season": "summer",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "polka dot",
+        "material": "linen",
+        "sleeve_length": "short",
+        "neckline": "turtleneck",
+        "fit": "regular",
+        "length": "midi",
+        "popularity": "high",
+        "price_range": "budget"
+      },
+      "sales_data": {
+        "views": 5699,
+        "likes": 4053,
+        "purchases": 142,
+        "rating": 1.6,
+        "reviews": 23
+      }
+    },
+    {
+      "item_id": 54,
+      "category": "t-shirt",
+      "color": "grey",
+      "style": "streetwear",
+      "season": "fall",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "floral",
+        "material": "silk",
+        "sleeve_length": "long",
+        "neckline": "v-neck",
+        "fit": "slim",
+        "length": "knee-length",
+        "popularity": "trending",
+        "price_range": "luxury"
+      },
+      "sales_data": {
+        "views": 6348,
+        "likes": 4996,
+        "purchases": 460,
+        "rating": 4.2,
+        "reviews": 402
+      }
+    },
+    {
+      "item_id": 55,
+      "category": "jacket",
+      "color": "blue",
+      "style": "minimalist",
+      "season": "fall",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "polka dot",
+        "material": "polyester",
+        "sleeve_length": "short",
+        "neckline": "v-neck",
+        "fit": "oversized",
+        "length": "midi",
+        "popularity": "trending",
+        "price_range": "mid-range"
+      },
+      "sales_data": {
+        "views": 9632,
+        "likes": 4826,
+        "purchases": 632,
+        "rating": 4.3,
+        "reviews": 294
+      }
+    },
+    {
+      "item_id": 56,
+      "category": "skirt",
+      "color": "black",
+      "style": "oversized",
+      "season": "summer",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "solid",
+        "material": "wool",
+        "sleeve_length": "three-quarter",
+        "neckline": "turtleneck",
+        "fit": "slim",
+        "length": "midi",
+        "popularity": "high",
+        "price_range": "budget"
+      },
+      "sales_data": {
+        "views": 3276,
+        "likes": 846,
+        "purchases": 159,
+        "rating": 3.6,
+        "reviews": 232
+      }
+    },
+    {
+      "item_id": 57,
+      "category": "coat",
+      "color": "mustard yellow",
+      "style": "bohemian",
+      "season": "spring",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "solid",
+        "material": "polyester",
+        "sleeve_length": "sleeveless",
+        "neckline": "halter",
+        "fit": "oversized",
+        "length": "ankle-length",
+        "popularity": "medium",
+        "price_range": "premium"
+      },
+      "sales_data": {
+        "views": 6719,
+        "likes": 1266,
+        "purchases": 931,
+        "rating": 1.8,
+        "reviews": 278
+      }
+    },
+    {
+      "item_id": 58,
+      "category": "jeans",
+      "color": "burnt orange",
+      "style": "geometric patterns",
+      "season": "fall",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "floral",
+        "material": "linen",
+        "sleeve_length": "three-quarter",
+        "neckline": "round",
+        "fit": "tailored",
+        "length": "knee-length",
+        "popularity": "trending",
+        "price_range": "premium"
+      },
+      "sales_data": {
+        "views": 5059,
+        "likes": 1277,
+        "purchases": 807,
+        "rating": 1.4,
+        "reviews": 49
+      }
+    },
+    {
+      "item_id": 59,
+      "category": "shirt",
+      "color": "mustard yellow",
+      "style": "minimalist",
+      "season": "all-season",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "animal print",
+        "material": "wool",
+        "sleeve_length": "sleeveless",
+        "neckline": "turtleneck",
+        "fit": "slim",
+        "length": "midi",
+        "popularity": "trending",
+        "price_range": "mid-range"
+      },
+      "sales_data": {
+        "views": 368,
+        "likes": 4674,
+        "purchases": 232,
+        "rating": 2.2,
+        "reviews": 243
+      }
+    },
+    {
+      "item_id": 60,
+      "category": "top",
+      "color": "blush pink",
+      "style": "minimalist",
+      "season": "fall",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "polka dot",
+        "material": "leather",
+        "sleeve_length": "medium",
+        "neckline": "round",
+        "fit": "slim",
+        "length": "knee-length",
+        "popularity": "high",
+        "price_range": "premium"
+      },
+      "sales_data": {
+        "views": 3418,
+        "likes": 4980,
+        "purchases": 862,
+        "rating": 3.2,
+        "reviews": 467
+      }
+    },
+    {
+      "item_id": 61,
+      "category": "blouse",
+      "color": "purple",
+      "style": "preppy",
+      "season": "all-season",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "plaid",
+        "material": "linen",
+        "sleeve_length": "long",
+        "neckline": "round",
+        "fit": "regular",
+        "length": "ankle-length",
+        "popularity": "medium",
+        "price_range": "mid-range"
+      },
+      "sales_data": {
+        "views": 8315,
+        "likes": 5,
+        "purchases": 616,
+        "rating": 4.4,
+        "reviews": 40
+      }
+    },
+    {
+      "item_id": 62,
+      "category": "shirt",
+      "color": "pink",
+      "style": "color-blocking",
+      "season": "all-season",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "solid",
+        "material": "denim",
+        "sleeve_length": "three-quarter",
+        "neckline": "v-neck",
+        "fit": "slim",
+        "length": "midi",
+        "popularity": "low",
+        "price_range": "premium"
+      },
+      "sales_data": {
+        "views": 2626,
+        "likes": 2089,
+        "purchases": 316,
+        "rating": 2.5,
+        "reviews": 417
+      }
+    },
+    {
+      "item_id": 63,
+      "category": "coat",
+      "color": "navy",
+      "style": "sporty",
+      "season": "spring",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "animal print",
+        "material": "silk",
+        "sleeve_length": "short",
+        "neckline": "halter",
+        "fit": "oversized",
+        "length": "ankle-length",
+        "popularity": "high",
+        "price_range": "luxury"
+      },
+      "sales_data": {
+        "views": 7264,
+        "likes": 4157,
+        "purchases": 782,
+        "rating": 2.6,
+        "reviews": 466
+      }
+    },
+    {
+      "item_id": 64,
+      "category": "shirt",
+      "color": "green",
+      "style": "sporty",
+      "season": "all-season",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "geometric",
+        "material": "denim",
+        "sleeve_length": "long",
+        "neckline": "v-neck",
+        "fit": "oversized",
+        "length": "maxi",
+        "popularity": "trending",
+        "price_range": "mid-range"
+      },
+      "sales_data": {
+        "views": 9462,
+        "likes": 3400,
+        "purchases": 540,
+        "rating": 3.1,
+        "reviews": 163
+      }
+    },
+    {
+      "item_id": 65,
+      "category": "shoes",
+      "color": "blush pink",
+      "style": "sporty",
+      "season": "fall",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "floral",
+        "material": "leather",
+        "sleeve_length": "long",
+        "neckline": "round",
+        "fit": "oversized",
+        "length": "ankle-length",
+        "popularity": "high",
+        "price_range": "premium"
+      },
+      "sales_data": {
+        "views": 5361,
+        "likes": 1893,
+        "purchases": 382,
+        "rating": 4.7,
+        "reviews": 330
+      }
+    },
+    {
+      "item_id": 66,
+      "category": "shoes",
+      "color": "olive green",
+      "style": "formal",
+      "season": "summer",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "plaid",
+        "material": "wool",
+        "sleeve_length": "long",
+        "neckline": "square",
+        "fit": "oversized",
+        "length": "midi",
+        "popularity": "medium",
+        "price_range": "premium"
+      },
+      "sales_data": {
+        "views": 7645,
+        "likes": 3463,
+        "purchases": 972,
+        "rating": 3.0,
+        "reviews": 356
+      }
+    },
+    {
+      "item_id": 67,
+      "category": "skirt",
+      "color": "olive green",
+      "style": "layered",
+      "season": "fall",
+      "formality": "semi-formal",
+      "attributes": {
+        "pattern": "striped",
+        "material": "velvet",
+        "sleeve_length": "long",
+        "neckline": "round",
+        "fit": "slim",
+        "length": "maxi",
+        "popularity": "medium",
+        "price_range": "luxury"
+      },
+      "sales_data": {
+        "views": 2665,
+        "likes": 1000,
+        "purchases": 30,
+        "rating": 4.6,
+        "reviews": 360
+      }
+    },
+    {
+      "item_id": 68,
+      "category": "shorts",
+      "color": "green",
+      "style": "business",
+      "season": "winter",
+      "formality": "semi-formal",
+      "attributes": {
+        "pattern": "plaid",
+        "material": "denim",
+        "sleeve_length": "medium",
+        "neckline": "halter",
+        "fit": "oversized",
+        "length": "short",
+        "popularity": "high",
+        "price_range": "mid-range"
+      },
+      "sales_data": {
+        "views": 5837,
+        "likes": 4054,
+        "purchases": 249,
+        "rating": 1.6,
+        "reviews": 145
+      }
+    },
+    {
+      "item_id": 69,
+      "category": "jacket",
+      "color": "yellow",
+      "style": "gender-neutral",
+      "season": "spring",
+      "formality": "semi-formal",
+      "attributes": {
+        "pattern": "polka dot",
+        "material": "polyester",
+        "sleeve_length": "short",
+        "neckline": "off-shoulder",
+        "fit": "slim",
+        "length": "ankle-length",
+        "popularity": "high",
+        "price_range": "budget"
+      },
+      "sales_data": {
+        "views": 7584,
+        "likes": 3168,
+        "purchases": 110,
+        "rating": 4.0,
+        "reviews": 389
+      }
+    },
+    {
+      "item_id": 70,
+      "category": "shoes",
+      "color": "green",
+      "style": "formal",
+      "season": "summer",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "plaid",
+        "material": "silk",
+        "sleeve_length": "sleeveless",
+        "neckline": "round",
+        "fit": "oversized",
+        "length": "maxi",
+        "popularity": "high",
+        "price_range": "premium"
+      },
+      "sales_data": {
+        "views": 7629,
+        "likes": 1340,
+        "purchases": 268,
+        "rating": 1.8,
+        "reviews": 459
+      }
+    },
+    {
+      "item_id": 71,
+      "category": "sweater",
+      "color": "black",
+      "style": "sustainable",
+      "season": "fall",
+      "formality": "semi-formal",
+      "attributes": {
+        "pattern": "polka dot",
+        "material": "leather",
+        "sleeve_length": "long",
+        "neckline": "off-shoulder",
+        "fit": "tailored",
+        "length": "short",
+        "popularity": "high",
+        "price_range": "premium"
+      },
+      "sales_data": {
+        "views": 8410,
+        "likes": 291,
+        "purchases": 619,
+        "rating": 4.4,
+        "reviews": 253
+      }
+    },
+    {
+      "item_id": 72,
+      "category": "skirt",
+      "color": "coral",
+      "style": "casual",
+      "season": "fall",
+      "formality": "semi-formal",
+      "attributes": {
+        "pattern": "striped",
+        "material": "polyester",
+        "sleeve_length": "sleeveless",
+        "neckline": "round",
+        "fit": "slim",
+        "length": "ankle-length",
+        "popularity": "trending",
+        "price_range": "mid-range"
+      },
+      "sales_data": {
+        "views": 4623,
+        "likes": 4927,
+        "purchases": 570,
+        "rating": 4.1,
+        "reviews": 86
+      }
+    },
+    {
+      "item_id": 73,
+      "category": "dress",
+      "color": "olive green",
+      "style": "layered",
+      "season": "summer",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "plaid",
+        "material": "leather",
+        "sleeve_length": "long",
+        "neckline": "off-shoulder",
+        "fit": "tailored",
+        "length": "midi",
+        "popularity": "trending",
+        "price_range": "premium"
+      },
+      "sales_data": {
+        "views": 1183,
+        "likes": 1882,
+        "purchases": 196,
+        "rating": 3.6,
+        "reviews": 200
+      }
+    },
+    {
+      "item_id": 74,
+      "category": "dress",
+      "color": "black",
+      "style": "textured",
+      "season": "winter",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "striped",
+        "material": "wool",
+        "sleeve_length": "three-quarter",
+        "neckline": "halter",
+        "fit": "oversized",
+        "length": "knee-length",
+        "popularity": "trending",
+        "price_range": "luxury"
+      },
+      "sales_data": {
+        "views": 1972,
+        "likes": 709,
+        "purchases": 999,
+        "rating": 1.2,
+        "reviews": 79
+      }
+    },
+    {
+      "item_id": 75,
+      "category": "shirt",
+      "color": "coral",
+      "style": "sporty",
+      "season": "fall",
+      "formality": "semi-formal",
+      "attributes": {
+        "pattern": "plaid",
+        "material": "leather",
+        "sleeve_length": "short",
+        "neckline": "round",
+        "fit": "slim",
+        "length": "midi",
+        "popularity": "high",
+        "price_range": "luxury"
+      },
+      "sales_data": {
+        "views": 8506,
+        "likes": 509,
+        "purchases": 994,
+        "rating": 3.2,
+        "reviews": 499
+      }
+    },
+    {
+      "item_id": 76,
+      "category": "t-shirt",
+      "color": "navy",
+      "style": "geometric patterns",
+      "season": "all-season",
+      "formality": "semi-formal",
+      "attributes": {
+        "pattern": "polka dot",
+        "material": "cotton",
+        "sleeve_length": "long",
+        "neckline": "square",
+        "fit": "tailored",
+        "length": "maxi",
+        "popularity": "low",
+        "price_range": "luxury"
+      },
+      "sales_data": {
+        "views": 9467,
+        "likes": 4411,
+        "purchases": 976,
+        "rating": 1.2,
+        "reviews": 33
+      }
+    },
+    {
+      "item_id": 77,
+      "category": "shorts",
+      "color": "mint green",
+      "style": "formal",
+      "season": "fall",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "geometric",
+        "material": "silk",
+        "sleeve_length": "long",
+        "neckline": "turtleneck",
+        "fit": "oversized",
+        "length": "ankle-length",
+        "popularity": "high",
+        "price_range": "budget"
+      },
+      "sales_data": {
+        "views": 6230,
+        "likes": 4999,
+        "purchases": 208,
+        "rating": 1.9,
+        "reviews": 223
+      }
+    },
+    {
+      "item_id": 78,
+      "category": "shoes",
+      "color": "orange",
+      "style": "bohemian",
+      "season": "winter",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "floral",
+        "material": "polyester",
+        "sleeve_length": "short",
+        "neckline": "square",
+        "fit": "regular",
+        "length": "knee-length",
+        "popularity": "high",
+        "price_range": "premium"
+      },
+      "sales_data": {
+        "views": 5092,
+        "likes": 3617,
+        "purchases": 536,
+        "rating": 3.1,
+        "reviews": 473
+      }
+    },
+    {
+      "item_id": 79,
+      "category": "shirt",
+      "color": "mustard yellow",
+      "style": "minimalist",
+      "season": "all-season",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "polka dot",
+        "material": "polyester",
+        "sleeve_length": "three-quarter",
+        "neckline": "halter",
+        "fit": "loose",
+        "length": "maxi",
+        "popularity": "trending",
+        "price_range": "premium"
+      },
+      "sales_data": {
+        "views": 5756,
+        "likes": 1666,
+        "purchases": 23,
+        "rating": 3.5,
+        "reviews": 454
+      }
+    },
+    {
+      "item_id": 80,
+      "category": "t-shirt",
+      "color": "mustard yellow",
+      "style": "casual",
+      "season": "summer",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "geometric",
+        "material": "cotton",
+        "sleeve_length": "short",
+        "neckline": "turtleneck",
+        "fit": "slim",
+        "length": "midi",
+        "popularity": "low",
+        "price_range": "mid-range"
+      },
+      "sales_data": {
+        "views": 6876,
+        "likes": 4644,
+        "purchases": 697,
+        "rating": 4.5,
+        "reviews": 186
+      }
+    },
+    {
+      "item_id": 81,
+      "category": "shoes",
+      "color": "sage green",
+      "style": "minimalist",
+      "season": "spring",
+      "formality": "semi-formal",
+      "attributes": {
+        "pattern": "floral",
+        "material": "polyester",
+        "sleeve_length": "sleeveless",
+        "neckline": "round",
+        "fit": "tailored",
+        "length": "midi",
+        "popularity": "medium",
+        "price_range": "premium"
+      },
+      "sales_data": {
+        "views": 5763,
+        "likes": 1228,
+        "purchases": 406,
+        "rating": 3.8,
+        "reviews": 3
+      }
+    },
+    {
+      "item_id": 82,
+      "category": "shoes",
+      "color": "blue",
+      "style": "vintage",
+      "season": "spring",
+      "formality": "semi-formal",
+      "attributes": {
+        "pattern": "solid",
+        "material": "leather",
+        "sleeve_length": "short",
+        "neckline": "off-shoulder",
+        "fit": "regular",
+        "length": "midi",
+        "popularity": "high",
+        "price_range": "premium"
+      },
+      "sales_data": {
+        "views": 2553,
+        "likes": 4688,
+        "purchases": 394,
+        "rating": 2.5,
+        "reviews": 167
+      }
+    },
+    {
+      "item_id": 83,
+      "category": "t-shirt",
+      "color": "powder blue",
+      "style": "streetwear",
+      "season": "fall",
+      "formality": "semi-formal",
+      "attributes": {
+        "pattern": "animal print",
+        "material": "wool",
+        "sleeve_length": "long",
+        "neckline": "v-neck",
+        "fit": "tailored",
+        "length": "knee-length",
+        "popularity": "low",
+        "price_range": "budget"
+      },
+      "sales_data": {
+        "views": 2568,
+        "likes": 199,
+        "purchases": 654,
+        "rating": 1.2,
+        "reviews": 47
+      }
+    },
+    {
+      "item_id": 84,
+      "category": "coat",
+      "color": "powder blue",
+      "style": "textured",
+      "season": "fall",
+      "formality": "semi-formal",
+      "attributes": {
+        "pattern": "striped",
+        "material": "denim",
+        "sleeve_length": "long",
+        "neckline": "turtleneck",
+        "fit": "oversized",
+        "length": "maxi",
+        "popularity": "low",
+        "price_range": "mid-range"
+      },
+      "sales_data": {
+        "views": 9042,
+        "likes": 559,
+        "purchases": 651,
+        "rating": 2.3,
+        "reviews": 335
+      }
+    },
+    {
+      "item_id": 85,
+      "category": "coat",
+      "color": "white",
+      "style": "sporty",
+      "season": "winter",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "polka dot",
+        "material": "linen",
+        "sleeve_length": "medium",
+        "neckline": "halter",
+        "fit": "slim",
+        "length": "knee-length",
+        "popularity": "trending",
+        "price_range": "premium"
+      },
+      "sales_data": {
+        "views": 9418,
+        "likes": 2856,
+        "purchases": 348,
+        "rating": 2.3,
+        "reviews": 202
+      }
+    },
+    {
+      "item_id": 86,
+      "category": "blouse",
+      "color": "lavender",
+      "style": "athleisure",
+      "season": "all-season",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "polka dot",
+        "material": "velvet",
+        "sleeve_length": "short",
+        "neckline": "round",
+        "fit": "tailored",
+        "length": "maxi",
+        "popularity": "high",
+        "price_range": "premium"
+      },
+      "sales_data": {
+        "views": 1539,
+        "likes": 766,
+        "purchases": 91,
+        "rating": 4.9,
+        "reviews": 279
+      }
+    },
+    {
+      "item_id": 87,
+      "category": "t-shirt",
+      "color": "pink",
+      "style": "layered",
+      "season": "all-season",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "polka dot",
+        "material": "wool",
+        "sleeve_length": "three-quarter",
+        "neckline": "square",
+        "fit": "regular",
+        "length": "midi",
+        "popularity": "trending",
+        "price_range": "luxury"
+      },
+      "sales_data": {
+        "views": 9698,
+        "likes": 736,
+        "purchases": 660,
+        "rating": 4.0,
+        "reviews": 349
+      }
+    },
+    {
+      "item_id": 88,
+      "category": "pants",
+      "color": "teal",
+      "style": "monochromatic",
+      "season": "summer",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "striped",
+        "material": "cotton",
+        "sleeve_length": "medium",
+        "neckline": "halter",
+        "fit": "loose",
+        "length": "midi",
+        "popularity": "high",
+        "price_range": "luxury"
+      },
+      "sales_data": {
+        "views": 1934,
+        "likes": 3413,
+        "purchases": 164,
+        "rating": 4.3,
+        "reviews": 440
+      }
+    },
+    {
+      "item_id": 89,
+      "category": "skirt",
+      "color": "brown",
+      "style": "semi-formal",
+      "season": "fall",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "animal print",
+        "material": "wool",
+        "sleeve_length": "three-quarter",
+        "neckline": "v-neck",
+        "fit": "loose",
+        "length": "maxi",
+        "popularity": "high",
+        "price_range": "luxury"
+      },
+      "sales_data": {
+        "views": 3262,
+        "likes": 2481,
+        "purchases": 7,
+        "rating": 1.9,
+        "reviews": 492
+      }
+    },
+    {
+      "item_id": 90,
+      "category": "shorts",
+      "color": "teal",
+      "style": "textured",
+      "season": "spring",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "polka dot",
+        "material": "leather",
+        "sleeve_length": "short",
+        "neckline": "square",
+        "fit": "regular",
+        "length": "maxi",
+        "popularity": "trending",
+        "price_range": "luxury"
+      },
+      "sales_data": {
+        "views": 797,
+        "likes": 4042,
+        "purchases": 247,
+        "rating": 4.1,
+        "reviews": 311
+      }
+    },
+    {
+      "item_id": 91,
+      "category": "jacket",
+      "color": "pink",
+      "style": "gender-neutral",
+      "season": "summer",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "floral",
+        "material": "linen",
+        "sleeve_length": "long",
+        "neckline": "off-shoulder",
+        "fit": "loose",
+        "length": "knee-length",
+        "popularity": "low",
+        "price_range": "mid-range"
+      },
+      "sales_data": {
+        "views": 317,
+        "likes": 3295,
+        "purchases": 640,
+        "rating": 3.5,
+        "reviews": 47
+      }
+    },
+    {
+      "item_id": 92,
+      "category": "sweater",
+      "color": "teal",
+      "style": "semi-formal",
+      "season": "all-season",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "polka dot",
+        "material": "leather",
+        "sleeve_length": "medium",
+        "neckline": "round",
+        "fit": "tailored",
+        "length": "midi",
+        "popularity": "high",
+        "price_range": "premium"
+      },
+      "sales_data": {
+        "views": 7890,
+        "likes": 4344,
+        "purchases": 801,
+        "rating": 4.5,
+        "reviews": 365
+      }
+    },
+    {
+      "item_id": 93,
+      "category": "dress",
+      "color": "grey",
+      "style": "vintage-inspired",
+      "season": "spring",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "solid",
+        "material": "cotton",
+        "sleeve_length": "three-quarter",
+        "neckline": "turtleneck",
+        "fit": "oversized",
+        "length": "knee-length",
+        "popularity": "low",
+        "price_range": "luxury"
+      },
+      "sales_data": {
+        "views": 7348,
+        "likes": 3970,
+        "purchases": 45,
+        "rating": 4.1,
+        "reviews": 3
+      }
+    },
+    {
+      "item_id": 94,
+      "category": "shorts",
+      "color": "grey",
+      "style": "business",
+      "season": "spring",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "floral",
+        "material": "leather",
+        "sleeve_length": "medium",
+        "neckline": "round",
+        "fit": "regular",
+        "length": "short",
+        "popularity": "high",
+        "price_range": "mid-range"
+      },
+      "sales_data": {
+        "views": 8295,
+        "likes": 1568,
+        "purchases": 9,
+        "rating": 1.1,
+        "reviews": 99
+      }
+    },
+    {
+      "item_id": 95,
+      "category": "dress",
+      "color": "yellow",
+      "style": "sporty",
+      "season": "winter",
+      "formality": "semi-formal",
+      "attributes": {
+        "pattern": "floral",
+        "material": "denim",
+        "sleeve_length": "medium",
+        "neckline": "turtleneck",
+        "fit": "tailored",
+        "length": "midi",
+        "popularity": "high",
+        "price_range": "premium"
+      },
+      "sales_data": {
+        "views": 8516,
+        "likes": 1833,
+        "purchases": 944,
+        "rating": 3.6,
+        "reviews": 332
+      }
+    },
+    {
+      "item_id": 96,
+      "category": "skirt",
+      "color": "lavender",
+      "style": "sporty",
+      "season": "winter",
+      "formality": "formal",
+      "attributes": {
+        "pattern": "floral",
+        "material": "silk",
+        "sleeve_length": "short",
+        "neckline": "off-shoulder",
+        "fit": "oversized",
+        "length": "ankle-length",
+        "popularity": "low",
+        "price_range": "premium"
+      },
+      "sales_data": {
+        "views": 8422,
+        "likes": 4891,
+        "purchases": 208,
+        "rating": 3.8,
+        "reviews": 102
+      }
+    },
+    {
+      "item_id": 97,
+      "category": "jeans",
+      "color": "pink",
+      "style": "color-blocking",
+      "season": "all-season",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "floral",
+        "material": "wool",
+        "sleeve_length": "medium",
+        "neckline": "square",
+        "fit": "tailored",
+        "length": "ankle-length",
+        "popularity": "low",
+        "price_range": "mid-range"
+      },
+      "sales_data": {
+        "views": 1769,
+        "likes": 4370,
+        "purchases": 358,
+        "rating": 2.2,
+        "reviews": 230
+      }
+    },
+    {
+      "item_id": 98,
+      "category": "shorts",
+      "color": "navy",
+      "style": "minimalist",
+      "season": "summer",
+      "formality": "semi-formal",
+      "attributes": {
+        "pattern": "animal print",
+        "material": "polyester",
+        "sleeve_length": "short",
+        "neckline": "off-shoulder",
+        "fit": "regular",
+        "length": "short",
+        "popularity": "medium",
+        "price_range": "budget"
+      },
+      "sales_data": {
+        "views": 5417,
+        "likes": 2589,
+        "purchases": 276,
+        "rating": 3.7,
+        "reviews": 13
+      }
+    },
+    {
+      "item_id": 99,
+      "category": "shorts",
+      "color": "white",
+      "style": "semi-formal",
+      "season": "summer",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "geometric",
+        "material": "velvet",
+        "sleeve_length": "medium",
+        "neckline": "turtleneck",
+        "fit": "tailored",
+        "length": "midi",
+        "popularity": "trending",
+        "price_range": "mid-range"
+      },
+      "sales_data": {
+        "views": 367,
+        "likes": 703,
+        "purchases": 438,
+        "rating": 4.1,
+        "reviews": 16
+      }
+    },
+    {
+      "item_id": 100,
+      "category": "coat",
+      "color": "mustard yellow",
+      "style": "layered",
+      "season": "winter",
+      "formality": "casual",
+      "attributes": {
+        "pattern": "floral",
+        "material": "silk",
+        "sleeve_length": "short",
+        "neckline": "halter",
+        "fit": "slim",
+        "length": "short",
+        "popularity": "medium",
+        "price_range": "budget"
+      },
+      "sales_data": {
+        "views": 3735,
+        "likes": 2370,
+        "purchases": 522,
+        "rating": 4.2,
+        "reviews": 105
+      }
+    }
+  ]
+}
